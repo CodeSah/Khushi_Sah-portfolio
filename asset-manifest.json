@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf538fe7.css",
+    "main.js": "/static/js/main.c3f47fcc.js",
+    "static/media/atm.png": "/static/media/atm.bb4a44ee1f9d6640fdd7.png",
+    "static/media/HeroImage.jpg": "/static/media/HeroImage.4c185b051b04172ace68.jpg",
+    "static/media/bone fracture.png": "/static/media/bone fracture.283b236bc9374d112b6f.png",
+    "index.html": "/index.html",
+    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
+    "main.c3f47fcc.js.map": "/static/js/main.c3f47fcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.c3f47fcc.js"
+  ]
+}
