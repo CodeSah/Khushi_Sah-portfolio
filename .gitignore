@@ -5,8 +5,21 @@
 /.pnp
 .pnp.js
 
+# Build output
+dist/
+build/
+
+# IDE/editor settings
+.idea/
+.vs/
+.vscode/
+
 # testing
 /coverage
+
+# OS/system files
+.DS_Store
+Thumbs.db
 
 # production
 /build
