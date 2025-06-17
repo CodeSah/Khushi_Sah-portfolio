@@ -1,5 +1,6 @@
 import atmImage from '../images/atm.png';
 import boneImage from '../images/bone fracture.png';
+import indusImage from '../images/77.gif';
 
 export const Bio = {
   name: "Khushi Kumari Sah",
@@ -172,7 +173,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "http://www.induseducation.in/images/77.gif",
+    img: indusImage,
     role: "Java Application Development Intern",
     company: "Indus Education Pvt. Ltd.",
     date: "May 2024 - July 2024",
