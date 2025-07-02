@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Khushi_Sah-portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/Khushi_Sah-portfolio/static/js/main.3e419700.js",
+    "main.js": "/Khushi_Sah-portfolio/static/js/main.d98e2963.js",
     "static/media/atm.png": "/Khushi_Sah-portfolio/static/media/atm.bb4a44ee1f9d6640fdd7.png",
     "static/media/HeroImage.jpg": "/Khushi_Sah-portfolio/static/media/HeroImage.4c185b051b04172ace68.jpg",
     "static/media/bone fracture.png": "/Khushi_Sah-portfolio/static/media/bone fracture.283b236bc9374d112b6f.png",
     "static/media/77.png": "/Khushi_Sah-portfolio/static/media/77.f3c8603c92119c7b7313.png",
     "index.html": "/Khushi_Sah-portfolio/index.html",
     "main.bf538fe7.css.map": "/Khushi_Sah-portfolio/static/css/main.bf538fe7.css.map",
-    "main.3e419700.js.map": "/Khushi_Sah-portfolio/static/js/main.3e419700.js.map"
+    "main.d98e2963.js.map": "/Khushi_Sah-portfolio/static/js/main.d98e2963.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.3e419700.js"
+    "static/js/main.d98e2963.js"
   ]
 }
