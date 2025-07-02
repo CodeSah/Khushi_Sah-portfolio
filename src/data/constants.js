@@ -1,6 +1,6 @@
 import atmImage from '../images/atm.png';
 import boneImage from '../images/bone fracture.png';
-import indusImage from '../images/77.gif';
+import indusImage from '../images/77.png';
 
 export const Bio = {
   name: "Khushi Kumari Sah",
