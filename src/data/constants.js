@@ -173,7 +173,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: indusImage,
+    img: "/77.png",
     role: "Java Application Development Intern",
     company: "Indus Education Pvt. Ltd.",
     date: "May 2024 - July 2024",
